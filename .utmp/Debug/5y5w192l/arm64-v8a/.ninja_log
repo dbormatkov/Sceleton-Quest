@@ -1,0 +1,10 @@
+# ninja log v5
+25	2110	7726591726132802	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	959339688e4ef61e
+34	2123	7726591726154996	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	be7c642299f5b549
+66	2137	7726591726489170	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	2c4540298f92510d
+0	2165	7726591726690285	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	de0129d8365841e8
+16	2174	7726591726811506	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	32132646409d47ab
+44	2320	7726591728314475	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	a93f7114952f5f47
+9	2388	7726591728978429	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	2e65e0f180406a8f
+55	2433	7726591729459744	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	bb35c718e49457f8
+2433	2572	7726591730874422	C:/Users/Dennis/Documents/Hochschule/Interaktive Systeme/anatomy_app/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/5y5w192l/obj/arm64-v8a/libgame.so	6994c3b191fa8bd2

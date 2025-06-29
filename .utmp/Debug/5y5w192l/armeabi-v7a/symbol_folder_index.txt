@@ -1,0 +1,1 @@
+C:\Users\Dennis\Documents\Hochschule\Interaktive Systeme\anatomy_app\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\Debug\5y5w192l\obj\armeabi-v7a

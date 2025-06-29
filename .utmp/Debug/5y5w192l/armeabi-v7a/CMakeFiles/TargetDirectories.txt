@@ -1,0 +1,5 @@
+C:/Users/Dennis/Documents/Hochschule/Interaktive Systeme/anatomy_app/.utmp/Debug/5y5w192l/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Dennis/Documents/Hochschule/Interaktive Systeme/anatomy_app/.utmp/Debug/5y5w192l/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/Dennis/Documents/Hochschule/Interaktive Systeme/anatomy_app/.utmp/Debug/5y5w192l/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+C:/Users/Dennis/Documents/Hochschule/Interaktive Systeme/anatomy_app/.utmp/Debug/5y5w192l/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Dennis/Documents/Hochschule/Interaktive Systeme/anatomy_app/.utmp/Debug/5y5w192l/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir

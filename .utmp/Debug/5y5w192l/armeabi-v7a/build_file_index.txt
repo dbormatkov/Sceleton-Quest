@@ -1,0 +1,2 @@
+C:\Users\Dennis\Documents\Hochschule\Interaktive Systeme\anatomy_app\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Dennis\Documents\Hochschule\Interaktive Systeme\anatomy_app\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

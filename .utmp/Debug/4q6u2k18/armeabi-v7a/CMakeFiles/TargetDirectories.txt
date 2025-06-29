@@ -1,0 +1,5 @@
+/home/karlgustav/anatomy_app/.utmp/Debug/4q6u2k18/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/karlgustav/anatomy_app/.utmp/Debug/4q6u2k18/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/karlgustav/anatomy_app/.utmp/Debug/4q6u2k18/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+/home/karlgustav/anatomy_app/.utmp/Debug/4q6u2k18/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+/home/karlgustav/anatomy_app/.utmp/Debug/4q6u2k18/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
